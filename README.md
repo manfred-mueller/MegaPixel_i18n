@@ -1,4 +1,4 @@
-### MegaPixel
+### MegaPixel_i18n
 GUI for avif, cavif, webp, jpegxl, mozjpg and ect
 
 ![image](https://i.imgur.com/Cq5JgUe.png)
