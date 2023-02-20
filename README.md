@@ -1,5 +1,3 @@
-## Discontinued, please check out the new repository: https://github.com/Alkl58/MegaPixel-Qt
-
 ### MegaPixel
 GUI for avif, cavif, webp, jpegxl, mozjpg and ect
 
